@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Task52d_AverColumn/1.0.0": {
+      "Task50d_WishedNumber/1.0.0": {
         "runtime": {
-          "Task52d_AverColumn.dll": {}
+          "Task50d_WishedNumber.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Task52d_AverColumn/1.0.0": {
+    "Task50d_WishedNumber/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

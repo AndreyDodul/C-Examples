@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Task52d_AverColumn")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Task50d_WishedNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Task52d_AverColumn")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Task52d_AverColumn")]
+[assembly: System.Reflection.AssemblyProductAttribute("Task50d_WishedNumber")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Task50d_WishedNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

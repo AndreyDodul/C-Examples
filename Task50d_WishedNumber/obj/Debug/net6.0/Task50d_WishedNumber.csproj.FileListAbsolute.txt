@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\bin\Debug\net6.0\Task50d_WishedNumber.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\bin\Debug\net6.0\Task50d_WishedNumber.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\bin\Debug\net6.0\Task50d_WishedNumber.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\bin\Debug\net6.0\Task50d_WishedNumber.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\bin\Debug\net6.0\Task50d_WishedNumber.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\obj\Debug\net6.0\Task50d_WishedNumber.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\obj\Debug\net6.0\Task50d_WishedNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\obj\Debug\net6.0\Task50d_WishedNumber.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\obj\Debug\net6.0\Task50d_WishedNumber.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\obj\Debug\net6.0\Task50d_WishedNumber.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\obj\Debug\net6.0\Task50d_WishedNumber.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\obj\Debug\net6.0\refint\Task50d_WishedNumber.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\obj\Debug\net6.0\Task50d_WishedNumber.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\obj\Debug\net6.0\Task50d_WishedNumber.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task50d_WishedNumber\obj\Debug\net6.0\ref\Task50d_WishedNumber.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Андрей Додул\\Documents\\Java\\04-GeekBrain\\5 C#\\Examples\\Task52d_AverColumn\\Task52d_AverColumn.csproj": {}
+    "C:\\Users\\Андрей Додул\\Documents\\Java\\04-GeekBrain\\5 C#\\Examples\\Task50d_WishedNumber\\Task50d_WishedNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Андрей Додул\\Documents\\Java\\04-GeekBrain\\5 C#\\Examples\\Task52d_AverColumn\\Task52d_AverColumn.csproj": {
+    "C:\\Users\\Андрей Додул\\Documents\\Java\\04-GeekBrain\\5 C#\\Examples\\Task50d_WishedNumber\\Task50d_WishedNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Андрей Додул\\Documents\\Java\\04-GeekBrain\\5 C#\\Examples\\Task52d_AverColumn\\Task52d_AverColumn.csproj",
-        "projectName": "Task52d_AverColumn",
-        "projectPath": "C:\\Users\\Андрей Додул\\Documents\\Java\\04-GeekBrain\\5 C#\\Examples\\Task52d_AverColumn\\Task52d_AverColumn.csproj",
+        "projectUniqueName": "C:\\Users\\Андрей Додул\\Documents\\Java\\04-GeekBrain\\5 C#\\Examples\\Task50d_WishedNumber\\Task50d_WishedNumber.csproj",
+        "projectName": "Task50d_WishedNumber",
+        "projectPath": "C:\\Users\\Андрей Додул\\Documents\\Java\\04-GeekBrain\\5 C#\\Examples\\Task50d_WishedNumber\\Task50d_WishedNumber.csproj",
         "packagesPath": "C:\\Users\\Андрей Додул\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Андрей Додул\\Documents\\Java\\04-GeekBrain\\5 C#\\Examples\\Task52d_AverColumn\\obj\\",
+        "outputPath": "C:\\Users\\Андрей Додул\\Documents\\Java\\04-GeekBrain\\5 C#\\Examples\\Task50d_WishedNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Андрей Додул\\AppData\\Roaming\\NuGet\\NuGet.Config"
