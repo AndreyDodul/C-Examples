@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\bin\Debug\net6.0\Task52_Ugadai.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\bin\Debug\net6.0\Task52_Ugadai.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\bin\Debug\net6.0\Task52_Ugadai.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\bin\Debug\net6.0\Task52_Ugadai.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\bin\Debug\net6.0\Task52_Ugadai.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\obj\Debug\net6.0\Task52_Ugadai.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\obj\Debug\net6.0\Task52_Ugadai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\obj\Debug\net6.0\Task52_Ugadai.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\obj\Debug\net6.0\Task52_Ugadai.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\obj\Debug\net6.0\Task52_Ugadai.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\obj\Debug\net6.0\Task52_Ugadai.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\obj\Debug\net6.0\refint\Task52_Ugadai.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\obj\Debug\net6.0\Task52_Ugadai.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\obj\Debug\net6.0\Task52_Ugadai.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52_Ugadai\obj\Debug\net6.0\ref\Task52_Ugadai.dll
