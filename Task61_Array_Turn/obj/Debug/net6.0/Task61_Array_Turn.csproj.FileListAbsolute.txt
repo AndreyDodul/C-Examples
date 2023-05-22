@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\bin\Debug\net6.0\Task61_Array_Turn.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\bin\Debug\net6.0\Task61_Array_Turn.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\bin\Debug\net6.0\Task61_Array_Turn.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\bin\Debug\net6.0\Task61_Array_Turn.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\bin\Debug\net6.0\Task61_Array_Turn.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\obj\Debug\net6.0\Task61_Array_Turn.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\obj\Debug\net6.0\Task61_Array_Turn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\obj\Debug\net6.0\Task61_Array_Turn.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\obj\Debug\net6.0\Task61_Array_Turn.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\obj\Debug\net6.0\Task61_Array_Turn.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\obj\Debug\net6.0\Task61_Array_Turn.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\obj\Debug\net6.0\refint\Task61_Array_Turn.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\obj\Debug\net6.0\Task61_Array_Turn.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\obj\Debug\net6.0\Task61_Array_Turn.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task61_Array_Turn\obj\Debug\net6.0\ref\Task61_Array_Turn.dll
