@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\obj\Debug\net6.0\Task52d_AverColumn.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\obj\Debug\net6.0\Task52d_AverColumn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\obj\Debug\net6.0\Task52d_AverColumn.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\obj\Debug\net6.0\Task52d_AverColumn.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\obj\Debug\net6.0\Task52d_AverColumn.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\bin\Debug\net6.0\Task52d_AverColumn.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\bin\Debug\net6.0\Task52d_AverColumn.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\bin\Debug\net6.0\Task52d_AverColumn.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\bin\Debug\net6.0\Task52d_AverColumn.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\bin\Debug\net6.0\Task52d_AverColumn.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\obj\Debug\net6.0\Task52d_AverColumn.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\obj\Debug\net6.0\refint\Task52d_AverColumn.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\obj\Debug\net6.0\Task52d_AverColumn.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\obj\Debug\net6.0\Task52d_AverColumn.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task52d_AverColumn\obj\Debug\net6.0\ref\Task52d_AverColumn.dll
