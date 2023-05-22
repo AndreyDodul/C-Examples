@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\obj\Debug\net6.0\Task71_2-Side Array.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\obj\Debug\net6.0\Task71_2-Side Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\obj\Debug\net6.0\Task71_2-Side Array.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\obj\Debug\net6.0\Task71_2-Side Array.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\obj\Debug\net6.0\Task71_2-Side Array.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\bin\Debug\net6.0\Task71_2-Side Array.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\bin\Debug\net6.0\Task71_2-Side Array.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\bin\Debug\net6.0\Task71_2-Side Array.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\bin\Debug\net6.0\Task71_2-Side Array.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\bin\Debug\net6.0\Task71_2-Side Array.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\obj\Debug\net6.0\Task71_2-Side Array.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\obj\Debug\net6.0\refint\Task71_2-Side Array.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\obj\Debug\net6.0\Task71_2-Side Array.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\obj\Debug\net6.0\Task71_2-Side Array.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task71_2-Side Array\obj\Debug\net6.0\ref\Task71_2-Side Array.dll
