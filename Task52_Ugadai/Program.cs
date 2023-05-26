@@ -11,7 +11,7 @@ Console.WriteLine("я загадал число от 1 до 100, угадай");
 
 int N;
 
-Console.WriteLine("ваше предположение: ");
+Console.WriteLine("ваше предположение, ну?: ");
 N = int.Parse(Console.ReadLine());
 while (N != x)
 {
