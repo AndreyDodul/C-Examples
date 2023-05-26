@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\bin\Debug\net6.0\Task54d_RegrInArray.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\bin\Debug\net6.0\Task54d_RegrInArray.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\bin\Debug\net6.0\Task54d_RegrInArray.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\bin\Debug\net6.0\Task54d_RegrInArray.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\bin\Debug\net6.0\Task54d_RegrInArray.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\obj\Debug\net6.0\Task54d_RegrInArray.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\obj\Debug\net6.0\Task54d_RegrInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\obj\Debug\net6.0\Task54d_RegrInArray.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\obj\Debug\net6.0\Task54d_RegrInArray.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\obj\Debug\net6.0\Task54d_RegrInArray.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\obj\Debug\net6.0\Task54d_RegrInArray.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\obj\Debug\net6.0\refint\Task54d_RegrInArray.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\obj\Debug\net6.0\Task54d_RegrInArray.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\obj\Debug\net6.0\Task54d_RegrInArray.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task54d_RegrInArray\obj\Debug\net6.0\ref\Task54d_RegrInArray.dll
