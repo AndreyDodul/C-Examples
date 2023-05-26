@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task27d_Sum_of_digits/1.0.0": {
+        "runtime": {
+          "Task27d_Sum_of_digits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task27d_Sum_of_digits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\obj\Debug\net6.0\Task27d_Sum_of_digits.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\obj\Debug\net6.0\Task27d_Sum_of_digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\obj\Debug\net6.0\Task27d_Sum_of_digits.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\obj\Debug\net6.0\Task27d_Sum_of_digits.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\obj\Debug\net6.0\Task27d_Sum_of_digits.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\bin\Debug\net6.0\Task27d_Sum_of_digits.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\bin\Debug\net6.0\Task27d_Sum_of_digits.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\bin\Debug\net6.0\Task27d_Sum_of_digits.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\bin\Debug\net6.0\Task27d_Sum_of_digits.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\bin\Debug\net6.0\Task27d_Sum_of_digits.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\obj\Debug\net6.0\Task27d_Sum_of_digits.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\obj\Debug\net6.0\refint\Task27d_Sum_of_digits.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\obj\Debug\net6.0\Task27d_Sum_of_digits.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\obj\Debug\net6.0\Task27d_Sum_of_digits.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task27d_Sum_of_digits\obj\Debug\net6.0\ref\Task27d_Sum_of_digits.dll
