@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\bin\Debug\net6.0\Task36d_Sum_of_oddElem.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\bin\Debug\net6.0\Task36d_Sum_of_oddElem.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\bin\Debug\net6.0\Task36d_Sum_of_oddElem.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\bin\Debug\net6.0\Task36d_Sum_of_oddElem.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\bin\Debug\net6.0\Task36d_Sum_of_oddElem.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\obj\Debug\net6.0\Task36d_Sum_of_oddElem.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\obj\Debug\net6.0\Task36d_Sum_of_oddElem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\obj\Debug\net6.0\Task36d_Sum_of_oddElem.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\obj\Debug\net6.0\Task36d_Sum_of_oddElem.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\obj\Debug\net6.0\Task36d_Sum_of_oddElem.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\obj\Debug\net6.0\Task36d_Sum_of_oddElem.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\obj\Debug\net6.0\refint\Task36d_Sum_of_oddElem.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\obj\Debug\net6.0\Task36d_Sum_of_oddElem.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\obj\Debug\net6.0\Task36d_Sum_of_oddElem.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task36d_Sum_of_oddElem\obj\Debug\net6.0\ref\Task36d_Sum_of_oddElem.dll
