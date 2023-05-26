@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\obj\Debug\net6.0\Task38d_Min_Max_Value.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\obj\Debug\net6.0\Task38d_Min_Max_Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\obj\Debug\net6.0\Task38d_Min_Max_Value.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\obj\Debug\net6.0\Task38d_Min_Max_Value.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\obj\Debug\net6.0\Task38d_Min_Max_Value.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\bin\Debug\net6.0\Task38d_Min_Max_Value.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\bin\Debug\net6.0\Task38d_Min_Max_Value.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\bin\Debug\net6.0\Task38d_Min_Max_Value.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\bin\Debug\net6.0\Task38d_Min_Max_Value.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\bin\Debug\net6.0\Task38d_Min_Max_Value.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\obj\Debug\net6.0\Task38d_Min_Max_Value.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\obj\Debug\net6.0\refint\Task38d_Min_Max_Value.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\obj\Debug\net6.0\Task38d_Min_Max_Value.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\obj\Debug\net6.0\Task38d_Min_Max_Value.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task38d_Min_Max_Value\obj\Debug\net6.0\ref\Task38d_Min_Max_Value.dll
