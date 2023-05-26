@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\bin\Debug\net6.0\Task43d_Point_of_Line_Intersection.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\bin\Debug\net6.0\Task43d_Point_of_Line_Intersection.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\bin\Debug\net6.0\Task43d_Point_of_Line_Intersection.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\bin\Debug\net6.0\Task43d_Point_of_Line_Intersection.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\bin\Debug\net6.0\Task43d_Point_of_Line_Intersection.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\obj\Debug\net6.0\Task43d_Point_of_Line_Intersection.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\obj\Debug\net6.0\Task43d_Point_of_Line_Intersection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\obj\Debug\net6.0\Task43d_Point_of_Line_Intersection.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\obj\Debug\net6.0\Task43d_Point_of_Line_Intersection.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\obj\Debug\net6.0\Task43d_Point_of_Line_Intersection.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\obj\Debug\net6.0\Task43d_Point_of_Line_Intersection.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\obj\Debug\net6.0\refint\Task43d_Point_of_Line_Intersection.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\obj\Debug\net6.0\Task43d_Point_of_Line_Intersection.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\obj\Debug\net6.0\Task43d_Point_of_Line_Intersection.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task43d_Point_of_Line_Intersection\obj\Debug\net6.0\ref\Task43d_Point_of_Line_Intersection.dll

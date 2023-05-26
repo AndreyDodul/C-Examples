@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task43d_Point_of_Line_Intersection/1.0.0": {
+        "runtime": {
+          "Task43d_Point_of_Line_Intersection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task43d_Point_of_Line_Intersection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
