@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\obj\Debug\net6.0\Task41_Sum-of-ints.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\obj\Debug\net6.0\Task41_Sum-of-ints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\obj\Debug\net6.0\Task41_Sum-of-ints.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\obj\Debug\net6.0\Task41_Sum-of-ints.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\obj\Debug\net6.0\Task41_Sum-of-ints.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\bin\Debug\net6.0\Task41_Sum-of-ints.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\bin\Debug\net6.0\Task41_Sum-of-ints.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\bin\Debug\net6.0\Task41_Sum-of-ints.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\bin\Debug\net6.0\Task41_Sum-of-ints.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\bin\Debug\net6.0\Task41_Sum-of-ints.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\obj\Debug\net6.0\Task41_Sum-of-ints.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\obj\Debug\net6.0\refint\Task41_Sum-of-ints.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\obj\Debug\net6.0\Task41_Sum-of-ints.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\obj\Debug\net6.0\Task41_Sum-of-ints.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41_Sum-of-ints\obj\Debug\net6.0\ref\Task41_Sum-of-ints.dll
