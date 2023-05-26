@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\obj\Debug\net6.0\Task34d_3d_array.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\obj\Debug\net6.0\Task34d_3d_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\obj\Debug\net6.0\Task34d_3d_array.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\obj\Debug\net6.0\Task34d_3d_array.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\obj\Debug\net6.0\Task34d_3d_array.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\bin\Debug\net6.0\Task34d_3d_array.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\bin\Debug\net6.0\Task34d_3d_array.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\bin\Debug\net6.0\Task34d_3d_array.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\bin\Debug\net6.0\Task34d_3d_array.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\bin\Debug\net6.0\Task34d_3d_array.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\obj\Debug\net6.0\Task34d_3d_array.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\obj\Debug\net6.0\refint\Task34d_3d_array.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\obj\Debug\net6.0\Task34d_3d_array.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\obj\Debug\net6.0\Task34d_3d_array.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task34d_3d_array\obj\Debug\net6.0\ref\Task34d_3d_array.dll
