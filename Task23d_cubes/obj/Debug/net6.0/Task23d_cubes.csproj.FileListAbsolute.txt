@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\bin\Debug\net6.0\Task23d_cubes.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\bin\Debug\net6.0\Task23d_cubes.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\bin\Debug\net6.0\Task23d_cubes.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\bin\Debug\net6.0\Task23d_cubes.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\bin\Debug\net6.0\Task23d_cubes.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\obj\Debug\net6.0\Task23d_cubes.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\obj\Debug\net6.0\Task23d_cubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\obj\Debug\net6.0\Task23d_cubes.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\obj\Debug\net6.0\Task23d_cubes.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\obj\Debug\net6.0\Task23d_cubes.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\obj\Debug\net6.0\Task23d_cubes.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\obj\Debug\net6.0\refint\Task23d_cubes.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\obj\Debug\net6.0\Task23d_cubes.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\obj\Debug\net6.0\Task23d_cubes.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task23d_cubes\obj\Debug\net6.0\ref\Task23d_cubes.dll
