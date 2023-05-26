@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\obj\Debug\net6.0\Task41d_Posit_numbers_quant.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\obj\Debug\net6.0\Task41d_Posit_numbers_quant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\obj\Debug\net6.0\Task41d_Posit_numbers_quant.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\obj\Debug\net6.0\Task41d_Posit_numbers_quant.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\obj\Debug\net6.0\Task41d_Posit_numbers_quant.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\bin\Debug\net6.0\Task41d_Posit_numbers_quant.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\bin\Debug\net6.0\Task41d_Posit_numbers_quant.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\bin\Debug\net6.0\Task41d_Posit_numbers_quant.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\bin\Debug\net6.0\Task41d_Posit_numbers_quant.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\bin\Debug\net6.0\Task41d_Posit_numbers_quant.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\obj\Debug\net6.0\Task41d_Posit_numbers_quant.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\obj\Debug\net6.0\refint\Task41d_Posit_numbers_quant.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\obj\Debug\net6.0\Task41d_Posit_numbers_quant.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\obj\Debug\net6.0\Task41d_Posit_numbers_quant.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task41d_Posit_numbers_quant\obj\Debug\net6.0\ref\Task41d_Posit_numbers_quant.dll

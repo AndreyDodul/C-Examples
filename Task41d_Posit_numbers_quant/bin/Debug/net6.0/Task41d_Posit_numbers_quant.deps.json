@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task41d_Posit_numbers_quant/1.0.0": {
+        "runtime": {
+          "Task41d_Posit_numbers_quant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task41d_Posit_numbers_quant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
