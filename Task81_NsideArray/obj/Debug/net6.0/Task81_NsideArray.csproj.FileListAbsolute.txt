@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\obj\Debug\net6.0\Task81_NsideArray.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\obj\Debug\net6.0\Task81_NsideArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\obj\Debug\net6.0\Task81_NsideArray.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\obj\Debug\net6.0\Task81_NsideArray.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\obj\Debug\net6.0\Task81_NsideArray.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\bin\Debug\net6.0\Task81_NsideArray.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\bin\Debug\net6.0\Task81_NsideArray.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\bin\Debug\net6.0\Task81_NsideArray.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\bin\Debug\net6.0\Task81_NsideArray.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\bin\Debug\net6.0\Task81_NsideArray.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\obj\Debug\net6.0\Task81_NsideArray.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\obj\Debug\net6.0\refint\Task81_NsideArray.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\obj\Debug\net6.0\Task81_NsideArray.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\obj\Debug\net6.0\Task81_NsideArray.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task81_NsideArray\obj\Debug\net6.0\ref\Task81_NsideArray.dll
