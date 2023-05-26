@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\obj\Debug\net6.0\Task25d_Stepen.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\obj\Debug\net6.0\Task25d_Stepen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\obj\Debug\net6.0\Task25d_Stepen.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\obj\Debug\net6.0\Task25d_Stepen.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\obj\Debug\net6.0\Task25d_Stepen.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\bin\Debug\net6.0\Task25d_Stepen.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\bin\Debug\net6.0\Task25d_Stepen.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\bin\Debug\net6.0\Task25d_Stepen.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\bin\Debug\net6.0\Task25d_Stepen.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\bin\Debug\net6.0\Task25d_Stepen.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\obj\Debug\net6.0\Task25d_Stepen.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\obj\Debug\net6.0\refint\Task25d_Stepen.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\obj\Debug\net6.0\Task25d_Stepen.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\obj\Debug\net6.0\Task25d_Stepen.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task25d_Stepen\obj\Debug\net6.0\ref\Task25d_Stepen.dll
