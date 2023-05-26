@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\bin\Debug\net6.0\Task47d_2d-Array.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\bin\Debug\net6.0\Task47d_2d-Array.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\bin\Debug\net6.0\Task47d_2d-Array.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\bin\Debug\net6.0\Task47d_2d-Array.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\bin\Debug\net6.0\Task47d_2d-Array.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\obj\Debug\net6.0\Task47d_2d-Array.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\obj\Debug\net6.0\Task47d_2d-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\obj\Debug\net6.0\Task47d_2d-Array.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\obj\Debug\net6.0\Task47d_2d-Array.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\obj\Debug\net6.0\Task47d_2d-Array.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\obj\Debug\net6.0\Task47d_2d-Array.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\obj\Debug\net6.0\refint\Task47d_2d-Array.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\obj\Debug\net6.0\Task47d_2d-Array.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\obj\Debug\net6.0\Task47d_2d-Array.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\Examples\Task47d_2d-Array\obj\Debug\net6.0\ref\Task47d_2d-Array.dll
