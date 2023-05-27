@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task58d_MultyOfArrays/1.0.0": {
+        "runtime": {
+          "Task58d_MultyOfArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task58d_MultyOfArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\bin\Debug\net6.0\Task58d_MultyOfArrays.exe
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\bin\Debug\net6.0\Task58d_MultyOfArrays.deps.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\bin\Debug\net6.0\Task58d_MultyOfArrays.runtimeconfig.json
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\bin\Debug\net6.0\Task58d_MultyOfArrays.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\bin\Debug\net6.0\Task58d_MultyOfArrays.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\obj\Debug\net6.0\Task58d_MultyOfArrays.csproj.AssemblyReference.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\obj\Debug\net6.0\Task58d_MultyOfArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\obj\Debug\net6.0\Task58d_MultyOfArrays.AssemblyInfoInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\obj\Debug\net6.0\Task58d_MultyOfArrays.AssemblyInfo.cs
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\obj\Debug\net6.0\Task58d_MultyOfArrays.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\obj\Debug\net6.0\Task58d_MultyOfArrays.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\obj\Debug\net6.0\refint\Task58d_MultyOfArrays.dll
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\obj\Debug\net6.0\Task58d_MultyOfArrays.pdb
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\obj\Debug\net6.0\Task58d_MultyOfArrays.genruntimeconfig.cache
+C:\Users\Андрей Додул\Documents\Java\04-GeekBrain\5 C#\C-Examples\Task58d_MultyOfArrays\obj\Debug\net6.0\ref\Task58d_MultyOfArrays.dll
